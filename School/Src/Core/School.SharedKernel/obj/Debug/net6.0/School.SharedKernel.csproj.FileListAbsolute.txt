@@ -1,0 +1,12 @@
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\bin\Debug\net6.0\School.SharedKernel.deps.json
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\bin\Debug\net6.0\School.SharedKernel.dll
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\bin\Debug\net6.0\School.SharedKernel.pdb
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.csproj.AssemblyReference.cache
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.AssemblyInfoInputs.cache
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.AssemblyInfo.cs
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.dll
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\refint\School.SharedKernel.dll
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\School.SharedKernel.pdb
+C:\Dev\Projects\School\Src\Core\School.SharedKernel\obj\Debug\net6.0\ref\School.SharedKernel.dll

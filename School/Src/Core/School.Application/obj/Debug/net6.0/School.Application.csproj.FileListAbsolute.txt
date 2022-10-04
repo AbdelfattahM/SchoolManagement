@@ -1,0 +1,17 @@
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.Application.deps.json
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.Application.dll
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.Application.pdb
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.Domain.dll
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.SharedKernel.dll
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.Domain.pdb
+C:\Dev\Projects\School\Src\Core\School.Application\bin\Debug\net6.0\School.SharedKernel.pdb
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.csproj.AssemblyReference.cache
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.AssemblyInfoInputs.cache
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.AssemblyInfo.cs
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.csproj.CopyComplete
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.dll
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\refint\School.Application.dll
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\School.Application.pdb
+C:\Dev\Projects\School\Src\Core\School.Application\obj\Debug\net6.0\ref\School.Application.dll
